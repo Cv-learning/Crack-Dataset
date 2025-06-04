@@ -22,5 +22,5 @@ The tunnel crack dataset has been uploaded to this repository.
 
 Among them, the images detected during bridge inspection are as follows, all of which can be obtained in this warehouse.
 
-<img src="./figures/result.png"  />
+<img src="./figures/Result.png"  />
 
